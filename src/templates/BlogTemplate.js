@@ -44,7 +44,7 @@ const BlogTemplate = ({ data }) => {
             style={{
               color: 'white',
               padding: '150px 20px 20px 20px',
-              background: `rgba(0, 0, 0, 0.3)`
+              background: `rgba(0, 0, 0, 0.3)`,
             }}
           >
             <h1>{frontmatter.title}</h1>

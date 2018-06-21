@@ -17,7 +17,7 @@ export const BlogPostList = ({ data, styles, filterBy, header }) => {
   const posts = edges.filter(
     edge => !!get(edge, 'node.frontmatter.date', false) && filterBy(edge)
   )
-  console.log({posts})
+  console.log({ posts })
   return (
     <div className={styles.postList}>
       {header ? <div>{header}</div> : null}
