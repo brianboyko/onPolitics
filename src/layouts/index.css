@@ -1,7 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Cabin:400,400i,700|Inconsolata|Oswald:400,700');
-
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Inconsolata|Sorts+Mill+Goudy');
 html {
-  font-family: "Cabin", sans-serif;
+  font-family: "Sorts Mill Gowdy", sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -94,7 +93,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: "Inconsolata", monospace;
   font-size: 1em;
 }
 figure {
@@ -200,7 +199,7 @@ html {
 }
 body {
   color: hsla(0, 0%, 0%, 0.8);
-  font-family: "Cabin", sans-serif;
+  font-family: "Sorts Mill Gowdy", sans-serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -230,7 +229,7 @@ h1 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: "Oswald", sans-serif;
+  font-family: "Fjalla One", sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
@@ -246,7 +245,7 @@ h2 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: "Oswald", sans-serif;
+  font-family: "Fjalla One", sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.62671rem;
@@ -262,7 +261,7 @@ h3 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: "Oswald", sans-serif;
+  font-family: "Fjalla One", sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.38316rem;
@@ -278,7 +277,7 @@ h4 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: "Oswald", sans-serif;
+  font-family: "Fjalla One", sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1rem;
@@ -294,7 +293,7 @@ h5 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: "Oswald", sans-serif;
+  font-family: "Fjalla One", sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 0.85028rem;
@@ -310,7 +309,7 @@ h6 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: "Oswald", sans-serif;
+  font-family: "Fjalla One", sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 0.78405rem;

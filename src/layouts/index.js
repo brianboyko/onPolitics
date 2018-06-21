@@ -13,7 +13,12 @@ const Layout = ({ children, data }) => (
         { name: 'description', content: 'Sample' },
         { name: 'keywords', content: 'sample, something' },
       ]}
-    />
+    >
+      <link
+        href="https://fonts.googleapis.com/css?family=Fjalla+One|Inconsolata|Sorts+Mill+Goudy"
+        rel="stylesheet"
+      />
+    </Helmet>
     <Header siteTitle={data.site.siteMetadata.title} />
     <div
       style={{

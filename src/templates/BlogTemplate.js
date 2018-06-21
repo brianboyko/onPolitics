@@ -1,6 +1,7 @@
 import React from 'react'
 import get from 'lodash/get'
 import Chip from '../ui/Chip'
+import './BlogTemplate.sass';
 
 export const pageQuery = graphql`
   query BlogPostByPath($path: String!) {
@@ -30,7 +31,7 @@ const BlogTemplate = ({ data }) => {
   const image = get(frontmatter, 'featuredImage.publicURL', '')
 
   return (
-    <div className="blog-post-container">
+    <div className="blog-post__container">
       <div className="blog-post">
         <div
           style={{
