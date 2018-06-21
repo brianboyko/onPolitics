@@ -1,32 +1,40 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-df93eb0c88a52638909b.js",
-      "component---src-pages-index-js-df93eb0c88a52638909b.js.map"
+      "component---src-pages-index-js-e1df02bd307bd2ee1158.js",
+      "component---src-pages-index-js-e1df02bd307bd2ee1158.js.map"
     ],
     "path---": [
       "path----b635b14aa4d246428aee.js",
       "path----b635b14aa4d246428aee.js.map"
     ],
+    "path---blog-the-arts-are-important": [
+      "path---blog-the-arts-are-important-1a6baa9c58e851cd7a18.js",
+      "path---blog-the-arts-are-important-1a6baa9c58e851cd7a18.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-c4e12e43879b1dbdadd1.js",
-      "component---src-layouts-index-js-c4e12e43879b1dbdadd1.js.map"
+      "component---src-layouts-index-js-2b9e412ecee5bdb8eab7.js",
+      "component---src-layouts-index-js-2b9e412ecee5bdb8eab7.js.map"
+    ],
+    "component---src-templates-blog-template-js": [
+      "component---src-templates-blog-template-js-5bde8e0933e9cc1c831a.js",
+      "component---src-templates-blog-template-js-5bde8e0933e9cc1c831a.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-a0e39f21c11f6a62c5ab.js",
-      "path---index-a0e39f21c11f6a62c5ab.js.map"
+      "path---index-5f35c7824a4b91fe34dd.js",
+      "path---index-5f35c7824a4b91fe34dd.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-db68b3a1039c6e14bfe0.js",
-      "commons-db68b3a1039c6e14bfe0.js.map"
+      "commons-8dcba3f9452ce054e0e3.js",
+      "commons-8dcba3f9452ce054e0e3.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -37,10 +45,14 @@
       "component---src-pages-page-2-js-1d4f0f19c1c44398ab65.js.map"
     ],
     "app": [
-      "app-42fb12ed39d126f354ea.js",
+      "app-5524f8b0a039c096577c.js",
       "build-js-styles.css",
-      "app-42fb12ed39d126f354ea.js.map",
+      "app-5524f8b0a039c096577c.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---blog-my-first-post": [
+      "path---blog-my-first-post-5d31d21b806490131c3e.js",
+      "path---blog-my-first-post-5d31d21b806490131c3e.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
