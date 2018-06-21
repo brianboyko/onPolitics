@@ -7,11 +7,11 @@ export const PostLink = ({ post, styles }) => {
   const title = get(post, 'frontmatter.title', '')
   const date = get(post, 'frontmatter.date', '')
   return (
-    <div className={styles.postListItem || 'blog-post-list__item'}>
+    <li className={styles.postListItem || 'blog-post-list__item'}>
       <Link to={postPath}>
         {title} ({date})
       </Link>
-    </div>
+    </li>
   )
 }
 

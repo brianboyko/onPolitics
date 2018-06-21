@@ -21,13 +21,15 @@ export const BlogPostList = ({ data, styles, filterBy, header }) => {
   return (
     <div className={styles.postList}>
       {header ? <div>{header}</div> : null}
-      {posts.map((post, index) => (
-        <PostLink
-          styles={styles}
-          key={post.node.id || index}
-          post={post.node}
-        />
-      ))}
+      <ul>
+        {posts.map((post, index) => (
+          <PostLink
+            styles={styles}
+            key={post.node.id || index}
+            post={post.node}
+          />
+        ))}
+      </ul>
     </div>
   )
 }
