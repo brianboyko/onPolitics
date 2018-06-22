@@ -4,7 +4,7 @@ module.exports = {
     title: 'Brian Boyko (On Politics)',
     description:
       'Political blog of Brian Boyko, software engineer and anti-corruption reformer',
-    siteUrl: 'https://brianboyko.github.io/onPolitics',
+    siteUrl: 'https://brianboyko.github.io/onPolitics/',
   },
   plugins: [
     'gatsby-transformer-remark',
